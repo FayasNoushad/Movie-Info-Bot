@@ -7,6 +7,16 @@ License -> https://github.com/FayasNoushad/Movie-Info-Bot-V2/blob/main/LICENSE
 
 ---
 
+## Advanced Features
+
+    - Database ( MongoDB ) Support
+    - Broadcast Support
+    - New user interface
+    - Update callback data
+    - Find movie via CallbackQuery support
+
+---
+
 ## Deploy
 
 ```sh
