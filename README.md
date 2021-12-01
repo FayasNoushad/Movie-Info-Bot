@@ -1,9 +1,5 @@
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Movie-Info-Bot-V2/blob/main/LICENSE
-```
+# Movie Info Bot V2
+An advanced telegram movie information finder bot
 
 ---
 
@@ -17,18 +13,6 @@ License -> https://github.com/FayasNoushad/Movie-Info-Bot-V2/blob/main/LICENSE
 
 ---
 
-## Deploy
-
-```sh
-git clone https://github.com/FayasNoushad/Movie-Info-Bot-V2.git
-cd Movie-Info-Bot-V2
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
-```
-
----
-
 ## Variables
 
 - `API_HASH` Your API Hash from my.telegram.org
@@ -39,11 +23,14 @@ python3 main.py
 
 ---
 
-## Credits
+## API
 
-- [Fayas Noushad](https://github.com/FayasNoushad)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Movie Info API](https://api.sumanjay.cf/watch/)
+https://api.sumanjay.cf/watch/
+
+---
+
+## Old Version
+
 - [Movie-Info-Bot](https://github.com/FayasNoushad/Movie-Info-Bot)
 
 ---
