@@ -34,8 +34,6 @@ ABOUT_TEXT = """--**About Me 😎**--
 
 👨‍💻 **Developer :** [GitHub](https://github.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad)
 
-👥 **Group :** [Developer Team](https://telegram.me/TheDeveloperTeam)
-
 🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/Movie-Info-Bot)
 
 📝 **Language :** [Python3](https://python.org)
@@ -56,8 +54,6 @@ START_BUTTONS = InlineKeyboardMarkup(
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📹 Video Tutorial', url='https://www.youtube.com/watch?v=qjMRZlzhCVo')
-        ],[
         InlineKeyboardButton('🏘 Home', callback_data='home'),
         InlineKeyboardButton('About 🔰', callback_data='about')
         ],[
