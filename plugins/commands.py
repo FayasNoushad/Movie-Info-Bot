@@ -32,9 +32,7 @@ ABOUT_TEXT = """--**About Me 😎**--
 
 🤖 **Name :** [Movie Info Bot](https://telegram.me/{})
 
-👨‍💻 **Developer :**
-  - **GitHub:** [Fayas](https://github.com/FayasNoushad)
-  - **Telegram :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+👨‍💻 **Developer :** [GitHub](https://github.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad)
 
 👥 **Group :** [Developer Team](https://telegram.me/TheDeveloperTeam)
 
