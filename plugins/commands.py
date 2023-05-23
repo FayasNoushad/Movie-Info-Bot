@@ -32,19 +32,17 @@ ABOUT_TEXT = """--**About Me 😎**--
 
 🤖 **Name :** [Movie Info Bot](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
-
-📢 **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+👨‍💻 **Developer :**
+  - **GitHub:** [Fayas](https://github.com/FayasNoushad)
+  - **Telegram :** [Fayas Noushad](https://telegram.me/FayasNoushad)
 
 👥 **Group :** [Developer Team](https://telegram.me/TheDeveloperTeam)
 
-🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/Movie-Info-Bot-V2)
+🌐 **Source :** [👉 Click here](https://github.com/FayasNoushad/Movie-Info-Bot)
 
 📝 **Language :** [Python3](https://python.org)
 
-🧰 **Framework :** [Pyrogram](https://pyrogram.org)
-
-📡 **Server :** [Heroku](https://heroku.com)"""
+🧰 **Framework :** [Pyrogram](https://pyrogram.org)"""
 
 SETTINGS_TEXT = "**Settings**"
 

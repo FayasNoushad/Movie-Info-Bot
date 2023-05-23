@@ -1,15 +1,5 @@
-# Movie Info Bot V2
-An advanced telegram movie information finder bot
-
----
-
-## Advanced Features
-
-    - Database ( MongoDB ) Support
-    - Broadcast Support
-    - New user interface
-    - Update callback data
-    - Find movie via CallbackQuery support
+# Movie Info Bot
+A telegram movie information finder bot
 
 ---
 
@@ -26,11 +16,5 @@ An advanced telegram movie information finder bot
 ## API
 
 https://api.sumanjay.cf/watch/
-
----
-
-## Old Version
-
-- [Movie-Info-Bot](https://github.com/FayasNoushad/Movie-Info-Bot)
 
 ---
